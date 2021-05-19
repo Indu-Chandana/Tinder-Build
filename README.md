@@ -14,6 +14,3 @@ Post: '/messages/new'
 
 Get: '/messages/sync'
 
-Post: '/tinder/cards'
-
-Get: '/tinder/cards'
