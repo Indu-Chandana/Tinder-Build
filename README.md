@@ -14,5 +14,5 @@ Post: '/messages/new'
 
 Get: '/messages/sync'
 
-🌎 Hosted Online: https://tinder-clone-indu.web.app
+
 
